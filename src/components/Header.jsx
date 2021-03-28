@@ -8,12 +8,6 @@ export const Header = () => {
           <div className="jumbotron__titleContainer">
             <h1>Rocio Juarez</h1>
             <h2 className="header__subtitle">Fotografia</h2>
-
-            {/* <p className="mt-4">
-              <a className="btn btn-lg btn-pink" href="#" role="button">
-                Comenzar
-              </a>
-            </p> */}
           </div>
         </div>
       </header>
