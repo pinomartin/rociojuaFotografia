@@ -2,8 +2,8 @@
 import Cami2 from '../img/optimizadas/cami/DSC_8159.jpg'
 import Cami3 from '../img/optimizadas/cami/DSC_8192.jpg'
 import Cami4 from '../img/optimizadas/cami/DSC_8161.jpg'
-import Cami5 from '../img/optimizadas/cami/DSC_8196.jpg'
-import Cami6 from '../img/optimizadas/cami/DSC_8209.jpg'
+// import Cami5 from '../img/optimizadas/cami/DSC_8196.jpg'
+// import Cami6 from '../img/optimizadas/cami/DSC_8209.jpg'
 import Cami7 from '../img/optimizadas/cami/DSC_8228.jpg'
 
 export const imageData = [
